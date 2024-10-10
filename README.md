@@ -67,5 +67,7 @@ Based on my analysis, the cities I can recommend are:
 ## Overall Conclusion:
 The cities Pune, Jaipur, and Delhi are recommended for opening new stores. As we can see from the data, rent is very low and remains under 500. The total sales and estimated coffee consumers are significantly high, especially in Delhi.
 
+### This Project Solutions : https://github.com/Rohit-Bhavikatte1/Monday-coffee-Expansion-Data-Analysis/blob/main/Coffee%20Sales%20Data%20Analysis.sql
+
 ### Here's a PPt Link : https://github.com/Rohit-Bhavikatte1/Monday-coffee-Expansion-Data-Analysis/blob/main/Coffee_City_Recommendations.pptx
 
