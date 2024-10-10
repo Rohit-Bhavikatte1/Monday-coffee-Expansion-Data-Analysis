@@ -1,5 +1,5 @@
 # Monday-coffee-Expansion-Data-Analysis
-[](https://github.com/Rohit-Bhavikatte1/Monday-coffee-Expansion-Data-Analysis/blob/main/cover.png)
+![logo](https://github.com/Rohit-Bhavikatte1/Monday-coffee-Expansion-Data-Analysis/blob/main/cover.png)
 
 
 
