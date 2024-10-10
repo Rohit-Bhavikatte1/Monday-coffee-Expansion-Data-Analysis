@@ -43,24 +43,24 @@ Based on my analysis, the cities I can recommend are:
 ### 1. Pune:
 
 **Reason:**
-In Pune, the average rent per customer is low, at 294.
-The total sales in Pune are very strong, amounting to 1,258,290, with an estimated coffee consumer base of 1.88 million.
-There are 52 different customers in Pune, and the average sales per customer are also good, at 24,197.
+1. In Pune, the average rent per customer is low, at 294.
+2. The total sales in Pune are very strong, amounting to 1,258,290, with an estimated coffee consumer base of 1.88 million.
+3. There are 52 different customers in Pune, and the average sales per customer are also good, at 24,197.
 
 ### 2.Jaipur:
 
 **Reason:**
-In Jaipur, the average rent per customer is very low, at 156.
-The total sales in Jaipur are strong, at 803,450, with an estimated coffee consumer base of 1 million.
-There are 69 different customers in Jaipur, and the average sales per customer are also good, at 11,644.
+1. In Jaipur, the average rent per customer is very low, at 156.
+2. The total sales in Jaipur are strong, at 803,450, with an estimated coffee consumer base of 1 million.
+3. There are 69 different customers in Jaipur, and the average sales per customer are also good, at 11,644.
 
 
 ### 3. Delhi:
 
 **Reason:**
-The main reason to select Delhi is the large estimated coffee consumer base of 7.75 million.
-Total sales are 750,420, which is satisfactory, with an average sales per customer matching the total sales.
-There are 68 different customers in Delhi, and the average rent per customer is 330, which is also a positive sign.
+1. The main reason to select Delhi is the large estimated coffee consumer base of 7.75 million.
+2. Total sales are 750,420, which is satisfactory, with an average sales per customer matching the total sales.
+3. There are 68 different customers in Delhi, and the average rent per customer is 330, which is also a positive sign.
 
 ## Overall Conclusion:
 The cities Pune, Jaipur, and Delhi are recommended for opening new stores. As we can see from the data, rent is very low and remains under 500. The total sales and estimated coffee consumers are significantly high, especially in Delhi.
