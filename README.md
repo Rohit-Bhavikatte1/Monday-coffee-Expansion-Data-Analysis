@@ -40,14 +40,14 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 
 Based on my analysis, the cities I can recommend are:
 
-**2Pune:**
+### 1. Pune:
 
 **Reason:**
 In Pune, the average rent per customer is low, at 294.
 The total sales in Pune are very strong, amounting to 1,258,290, with an estimated coffee consumer base of 1.88 million.
 There are 52 different customers in Pune, and the average sales per customer are also good, at 24,197.
 
-**2.Jaipur:**
+### 2.Jaipur:
 
 **Reason:**
 In Jaipur, the average rent per customer is very low, at 156.
@@ -55,7 +55,7 @@ The total sales in Jaipur are strong, at 803,450, with an estimated coffee consu
 There are 69 different customers in Jaipur, and the average sales per customer are also good, at 11,644.
 
 
-**3Delhi:**
+### 3. Delhi:
 
 **Reason:**
 The main reason to select Delhi is the large estimated coffee consumer base of 7.75 million.
