@@ -1,4 +1,6 @@
 # Monday-coffee-Expansion-Data-Analysis
+[company logo](https://github.com/Rohit-Bhavikatte1/Monday-coffee-Expansion-Data-Analysis/blob/main/cover.png)
+
 
 
 ## Objective
